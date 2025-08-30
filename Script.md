@@ -1,8 +1,8 @@
 # Left-4-dead-2-Advanced-bhop-help-script
 
-This script is for those who know how to bhop this script just helps the timing a bit
+This script is for those who know how to bhop. script just helps the timing a bit
 
-Put This script in your Autoexec.cfg file in Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg\Autoexec.cfg
+Put This script in your Autoexec.cfg file in Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg
 
 // Toggle key
 alias toggle_autojump "autojump_on"
